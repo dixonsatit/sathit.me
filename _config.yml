@@ -1,6 +1,6 @@
 # main text of home
 name: Sathti Seethaphon
-bio: Fullstack Web Developer
+bio: Fullstack Web Developer @Khon Kaen, Thailand.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -10,7 +10,7 @@ description: A blog about technology and stuff related
 external-image: false
 picture: assets/images/profile.jpg
 
-url: http://koppl.in/indigo
+url: https://dixonsatit.github.io/sathit.me
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
